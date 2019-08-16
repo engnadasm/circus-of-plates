@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="eg.edu.alexu.csd.oop.game.objects.AbstractDynamicProgram" 
+    project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/objects/AbstractDynamicProgram.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="596" y="175"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="eg.edu.alexu.csd.oop.game.objects.DynamicEnvironment" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/objects/DynamicEnvironment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="884" y="177"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="eg.edu.alexu.csd.oop.game.objects.AbstractDynamicProgram" 
+    project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/objects/AbstractDynamicProgram.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="596" y="175"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="eg.edu.alexu.csd.oop.game.objects.DynamicEnvironment" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/objects/DynamicEnvironment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="884" y="177"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="eg.edu.alexu.csd.oop.game.objects.ConcreteProgram" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/objects/ConcreteProgram.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="169" width="207" x="195" y="85"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="eg.edu.alexu.csd.oop.game.objects.ShapeFactory" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/objects/ShapeFactory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1506" y="1002"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="eg.edu.alexu.csd.oop.game.GameObject" project="circus of plates" 
+    file="/circus of plates/lib/engine_v3.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1270" y="993"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="eg.edu.alexu.csd.oop.game.objects.Shape" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/objects/Shape.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1010" y="793"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="eg.edu.alexu.csd.oop.game.GameObject" project="circus of plates" 
+    file="/circus of plates/lib/engine_v3.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1270" y="993"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="10" language="java" name="eg.edu.alexu.csd.oop.game.world.Iterator" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Iterator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2229" y="570"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="11" language="java" name="eg.edu.alexu.csd.oop.game.world.LevelIterator" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/LevelIterator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2137" y="703"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="eg.edu.alexu.csd.oop.game.world.LevelStrategy" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/LevelStrategy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1741" y="690"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="eg.edu.alexu.csd.oop.game.world.Hard" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Hard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1964" y="934"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="eg.edu.alexu.csd.oop.game.world.Easy" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Easy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1749" y="934"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="eg.edu.alexu.csd.oop.game.world.Medium" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Medium.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1938" y="676"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="16" language="java" name="eg.edu.alexu.csd.oop.game.world.Iterator" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Iterator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2229" y="570"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="17" language="java" name="eg.edu.alexu.csd.oop.game.world.LevelIterator" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/LevelIterator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2137" y="703"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="18" language="java" name="eg.edu.alexu.csd.oop.game.world.LevelStrategy" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/LevelStrategy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1741" y="690"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="19" language="java" name="eg.edu.alexu.csd.oop.game.world.Hard" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Hard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1964" y="934"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="eg.edu.alexu.csd.oop.game.world.Easy" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Easy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1749" y="934"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="eg.edu.alexu.csd.oop.game.world.Medium" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Medium.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1938" y="676"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="eg.edu.alexu.csd.oop.game.world.ObserverLevel" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/ObserverLevel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2185" y="432"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="eg.edu.alexu.csd.oop.game.world.ObserverView" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/ObserverView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1748" y="242"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="eg.edu.alexu.csd.oop.game.world.ObserverTime" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/ObserverTime.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2320" y="242"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="eg.edu.alexu.csd.oop.game.world.ObserverPoints" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/ObserverPoints.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2048" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="eg.edu.alexu.csd.oop.game.world.Observer" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Observer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1740" y="440"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="eg.edu.alexu.csd.oop.game.world.GameInfo" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/GameInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="549" width="231" x="1200" y="277"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="eg.edu.alexu.csd.oop.game.pools.RedBallPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/RedBallPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-120" y="926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="eg.edu.alexu.csd.oop.game.pools.ShapesPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/ShapesPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="295" y="462"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="eg.edu.alexu.csd.oop.game.pools.BlueBallPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/BlueBallPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-115" y="442"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="eg.edu.alexu.csd.oop.game.pools.PinkGiftPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/PinkGiftPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-121" y="285"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="eg.edu.alexu.csd.oop.game.pools.RedGiftPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/RedGiftPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-117" y="140"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="eg.edu.alexu.csd.oop.game.pools.PinkBallPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/PinkBallPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-119" y="766"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="eg.edu.alexu.csd.oop.game.pools.BlueGiftPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/BlueGiftPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-116" y="605"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="eg.edu.alexu.csd.oop.game.pools.RedBallPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/RedBallPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-120" y="926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="eg.edu.alexu.csd.oop.game.pools.ShapesPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/ShapesPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="295" y="462"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="eg.edu.alexu.csd.oop.game.pools.BlueBallPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/BlueBallPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-115" y="442"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="eg.edu.alexu.csd.oop.game.pools.PinkGiftPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/PinkGiftPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-121" y="285"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="eg.edu.alexu.csd.oop.game.pools.RedGiftPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/RedGiftPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-117" y="140"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="eg.edu.alexu.csd.oop.game.pools.PinkBallPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/PinkBallPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-119" y="766"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="eg.edu.alexu.csd.oop.game.pools.BlueGiftPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/BlueGiftPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-116" y="605"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="42" language="java" name="eg.edu.alexu.csd.oop.game.world.State" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/State.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="388" y="708"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="43" language="java" name="eg.edu.alexu.csd.oop.game.world.StateCatchnopoint" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/StateCatchnopoint.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="188" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="eg.edu.alexu.csd.oop.game.world.StateCatchpoint" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/StateCatchpoint.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="478" y="944"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="eg.edu.alexu.csd.oop.game.world.StateMiss" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/StateMiss.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="746" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="eg.edu.alexu.csd.oop.game.world.Game" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Game.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1438" y="14"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="eg.edu.alexu.csd.oop.game.objects.Clown" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/objects/Clown.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1121" y="23"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="48" language="java" name="eg.edu.alexu.csd.oop.game.world.EmptyStacks" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/EmptyStacks.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1125" y="-232"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="49" language="java" name="eg.edu.alexu.csd.oop.game.world.LeftStackEmpty" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/LeftStackEmpty.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="565" y="-420"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="eg.edu.alexu.csd.oop.game.world.NoEmptyStacks" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/NoEmptyStacks.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="964" y="-421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="eg.edu.alexu.csd.oop.game.world.TwoEmptyStacks" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/TwoEmptyStacks.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="764" y="-419"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="52" language="java" name="eg.edu.alexu.csd.oop.game.world.EmptyStackVisitor" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/EmptyStackVisitor.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1960" y="-178"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="53" language="java" name="eg.edu.alexu.csd.oop.game.world.RightStackEmpty" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/RightStackEmpty.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1167" y="-421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="eg.edu.alexu.csd.oop.game.world.CatchingObjects" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/CatchingObjects.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1720" y="-80"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="55" language="java" name="eg.edu.alexu.csd.oop.game.World" project="circus of plates" 
+    file="/circus of plates/lib/engine_v3.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1434" y="-334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <realization id="56">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <generalization id="57">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="29"/>  
+  </generalization>  
+  <dependency id="58">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="47"/>  
+  </dependency>  
+  <generalization id="59">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <dependency id="60">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="61">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="62" name="load">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="63" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="64">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="65" name="movable">        
+        <position height="0" width="0" x="-44" y="-8"/>      
+      </attribute>      
+      <multiplicity id="66" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="-44" y="-8"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="68" name="shapMap">        
+        <position height="0" width="0" x="845" y="858"/>      
+      </attribute>      
+      <multiplicity id="69" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="845" y="858"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="70">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="42"/>  
+  </realization>  
+  <realization id="71">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="55"/>  
+  </realization>  
+  <association id="72">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="73" name="classesList">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="74" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="75">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="76" name="observers">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="77" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="78">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <association id="79">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="80" name="constant">        
+        <position height="0" width="0" x="-44" y="-8"/>      
+      </attribute>      
+      <multiplicity id="81" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="-44" y="-8"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="82">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="83" name="gameinfo">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="84" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="85">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="86" name="instance">        
+        <position height="0" width="0" x="-1394" y="-28"/>      
+      </attribute>      
+      <multiplicity id="87" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-1394" y="-28"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="88">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="89" name="leftStack">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="90" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="91">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <realization id="92">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <association id="93">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="94" name="instance">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="95" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="97" name="t">        
+        <position height="0" width="0" x="-362" y="-316"/>      
+      </attribute>      
+      <multiplicity id="98" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-362" y="-316"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="99">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="100" name="instance">        
+        <position height="0" width="0" x="-776" y="520"/>      
+      </attribute>      
+      <multiplicity id="101" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-776" y="520"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="102">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="103" name="instance">        
+        <position height="0" width="0" x="-1672" y="656"/>      
+      </attribute>      
+      <multiplicity id="104" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-1672" y="656"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="105">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="48"/>  
+  </realization>  
+  <generalization id="106">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <generalization id="107">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <association id="108">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="109" name="instance">        
+        <position height="0" width="0" x="-1070" y="130"/>      
+      </attribute>      
+      <multiplicity id="110" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-1070" y="130"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="111">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="112" name="controlable">        
+        <position height="0" width="0" x="-44" y="-8"/>      
+      </attribute>      
+      <multiplicity id="113" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="-44" y="-8"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="114">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="42"/>  
+  </realization>  
+  <dependency id="115">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <realization id="116">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="48"/>  
+  </realization>  
+  <association id="117">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="118" name="state">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="119" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="120">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="29"/>  
+  </generalization>  
+  <realization id="121">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="48"/>  
+  </realization>  
+  <realization id="122">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <generalization id="123">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <realization id="124">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="52"/>  
+  </realization>  
+  <generalization id="125">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="29"/>  
+  </generalization>  
+  <realization id="126">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="127">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="128">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="42"/>  
+  </realization>  
+  <generalization id="129">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="29"/>  
+  </generalization>  
+  <generalization id="130">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="29"/>  
+  </generalization>  
+  <dependency id="131">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <association id="132">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="133" name="info">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="134" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="135">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="29"/>  
+  </generalization>  
+  <association id="136">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="137" name="instance">        
+        <position height="0" width="0" x="-736" y="770"/>      
+      </attribute>      
+      <multiplicity id="138" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-736" y="770"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="139">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="48"/>  
+  </realization>  
+  <association id="140">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="141" name="n">        
+        <position height="0" width="0" x="364" y="16"/>      
+      </attribute>      
+      <multiplicity id="142" minimum="0" maximum="1">        
+        <position height="0" width="0" x="364" y="16"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="143">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="144" name="rightStack">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="145" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="146">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="147" name="instance">        
+        <position height="0" width="0" x="-1642" y="686"/>      
+      </attribute>      
+      <multiplicity id="148" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-1642" y="686"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="149">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="150" name="level">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="151" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="152">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="153" name="instance">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="154" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

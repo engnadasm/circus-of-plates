@@ -1,0 +1,550 @@
+2018-12-23 21:53:35,540 +0200 [main] INFO  (Game.java:32) - you start new game
+2018-12-23 21:53:37,787 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 21:53:38,922 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 21:53:40,332 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 21:53:41,451 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 21:53:42,585 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 21:53:43,249 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 21:53:43,752 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 21:53:44,891 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 21:53:46,100 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 21:53:46,730 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 21:53:46,783 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 21:53:47,194 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 21:53:47,877 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 21:53:48,353 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 21:53:49,486 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 21:53:50,213 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 21:53:57,181 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 21:53:57,779 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 21:53:57,907 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 21:53:58,380 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 21:53:59,217 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 21:53:59,677 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 21:54:00,245 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 21:54:00,790 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 21:54:01,519 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 21:54:01,955 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 21:54:03,077 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 21:54:03,895 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 21:54:04,405 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 21:54:05,137 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 21:54:05,539 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 21:54:06,249 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 21:54:06,651 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 21:54:07,439 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 21:54:07,845 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 21:54:08,565 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 21:54:09,001 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 21:54:09,254 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 21:54:09,718 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 21:54:10,147 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 21:54:10,873 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 21:54:11,426 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 21:54:12,759 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 21:54:13,523 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 21:54:13,861 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 21:54:13,863 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 1
+2018-12-23 21:54:13,863 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 36685
+2018-12-23 21:54:13,940 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 21:54:14,689 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 21:54:15,097 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 21:54:15,875 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 21:54:16,309 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 21:54:17,432 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 21:54:25,208 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 21:54:25,643 +0200 [AWT-EventQueue-0] ERROR (ShapesPool.java:41) - no such object in the pool
+2018-12-23 21:54:26,325 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 21:54:26,894 +0200 [AWT-EventQueue-0] ERROR (ShapesPool.java:41) - no such object in the pool
+2018-12-23 21:54:27,572 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 21:54:28,007 +0200 [AWT-EventQueue-0] ERROR (ShapesPool.java:41) - no such object in the pool
+2018-12-23 21:54:28,724 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 21:54:29,159 +0200 [AWT-EventQueue-0] ERROR (ShapesPool.java:41) - no such object in the pool
+2018-12-23 21:54:29,868 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 21:54:30,283 +0200 [AWT-EventQueue-0] ERROR (ShapesPool.java:41) - no such object in the pool
+2018-12-23 21:54:31,301 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 21:54:31,718 +0200 [AWT-EventQueue-0] ERROR (ShapesPool.java:41) - no such object in the pool
+2018-12-23 21:54:32,405 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 21:54:33,137 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 21:54:33,540 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 21:54:34,511 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 21:54:34,918 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 21:54:35,633 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 21:54:36,039 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 21:54:36,746 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 21:54:37,149 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 21:54:37,810 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 21:54:37,924 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 21:54:38,331 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 21:54:39,067 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 21:54:39,671 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 21:54:40,763 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 21:54:41,455 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 21:54:41,866 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 21:54:42,469 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 21:54:42,664 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 21:54:43,068 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 21:54:43,845 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 21:54:44,247 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 21:54:45,408 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 21:54:46,144 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 21:54:46,550 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 21:54:47,255 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 21:54:47,659 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 21:54:48,463 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 21:54:48,868 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 21:54:49,164 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 21:54:49,164 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 1
+2018-12-23 21:54:49,165 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 28520
+2018-12-23 21:54:49,622 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 21:54:50,043 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 21:54:50,785 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 21:54:51,214 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 21:54:52,348 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 21:54:53,076 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 21:54:53,542 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 21:54:54,249 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 21:54:54,672 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 21:54:55,377 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 21:54:55,782 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 21:54:56,484 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 21:54:56,538 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 21:54:56,942 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 21:54:57,660 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 21:54:58,062 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 21:54:58,699 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 21:54:59,217 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 21:54:59,968 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 21:55:00,372 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:05,721 +0200 [main] INFO  (Game.java:32) - you start new game
+2018-12-23 22:07:07,295 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:07,878 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:08,428 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:09,020 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:09,856 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:10,410 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:07:11,005 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:07:11,557 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:07:12,136 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:12,744 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:12,824 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:13,304 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:13,872 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:07:14,476 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:15,059 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:15,605 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:15,749 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:16,176 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:16,318 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:07:16,722 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:16,811 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:07:16,866 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:07:17,291 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:17,433 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:17,836 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:18,028 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:07:18,494 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:07:18,641 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:07:19,110 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:19,691 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:19,834 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:20,315 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:20,345 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:20,455 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:07:20,870 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:21,008 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:21,437 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:21,590 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:07:21,987 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:22,219 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:22,652 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:07:22,899 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:07:22,900 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 1
+2018-12-23 22:07:22,901 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 57827
+2018-12-23 22:07:23,191 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:07:23,338 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:23,800 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:23,832 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:07:23,939 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:07:24,360 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:24,512 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:07:24,908 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:25,049 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:07:25,494 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:26,036 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:26,605 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:26,747 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:07:27,145 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:27,288 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:07:27,708 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:07:27,850 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:28,250 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:28,391 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:28,501 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:28,819 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:07:28,960 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:29,448 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:07:29,589 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:07:30,050 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:30,191 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:07:30,591 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:30,765 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:07:31,171 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:31,683 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:31,684 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 2
+2018-12-23 22:07:31,684 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 64044
+2018-12-23 22:07:31,794 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:31,930 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:32,332 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:32,473 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:32,899 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:07:33,040 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:07:33,447 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:33,534 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:33,589 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:34,029 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:34,168 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:07:34,580 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:07:35,179 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:35,322 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:07:35,723 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:07:36,284 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:36,426 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:07:36,828 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:36,989 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:07:37,395 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:07:37,537 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:07:37,940 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:38,129 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:38,535 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:07:38,679 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:39,104 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:39,248 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:07:39,669 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:39,810 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:40,243 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:40,437 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:07:40,841 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:40,873 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:07:40,984 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:07:41,440 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:41,582 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:41,985 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:42,123 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:07:42,556 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:42,697 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:07:43,105 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:07:43,375 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:07:43,376 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 3
+2018-12-23 22:07:43,376 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 67353
+2018-12-23 22:07:43,667 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:43,810 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:44,215 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:44,386 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:44,787 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:44,927 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:07:45,351 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:45,488 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:07:45,923 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:46,479 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:46,618 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:07:47,020 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:07:47,159 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:47,588 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:47,727 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:48,125 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:48,158 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:07:48,266 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:48,982 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:49,200 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:07:49,675 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:07:49,816 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:07:49,927 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:07:49,927 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 4
+2018-12-23 22:07:49,927 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 75802
+2018-12-23 22:07:50,214 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:07:50,355 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:50,848 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:51,570 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:51,733 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:52,133 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:52,273 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:52,719 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:53,271 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:53,413 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:07:53,945 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:54,087 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:07:54,504 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:54,645 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:55,057 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:55,145 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:07:55,200 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:07:55,596 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:07:55,771 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:07:56,178 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:56,266 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:07:56,319 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:07:56,724 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:07:56,892 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:07:57,310 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:07:57,343 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:57,856 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:07:57,996 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:07:58,401 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:07:58,966 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:07:59,108 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:07:59,527 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:08:00,095 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:08:00,237 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:08:00,369 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:08:00,658 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:08:00,801 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:08:01,218 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:08:01,361 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:08:01,765 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:08:01,906 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:08:02,328 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:08:02,469 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:08:02,934 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:08:03,506 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:08:03,648 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:08:04,085 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:08:04,225 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:08:04,679 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:08:04,820 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:08:05,158 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:08:05,158 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 5
+2018-12-23 22:08:05,159 +0200 [AWT-EventQueue-0] INFO  (ObserverLevel.java:22) - you up to next level.
+2018-12-23 22:08:05,159 +0200 [AWT-EventQueue-0] INFO  (ObserverLevel.java:25) - the time becomes 90570
+2018-12-23 22:08:05,159 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 105570
+2018-12-23 22:08:05,235 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:08:05,377 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:08:05,775 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:08:05,917 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:08:06,350 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:08:06,493 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:08:06,899 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:08:07,039 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:08:07,465 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:08:07,604 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:08:15,722 +0200 [main] INFO  (Game.java:32) - you start new game
+2018-12-23 22:08:18,290 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:08:20,010 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:08:21,739 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:08:23,432 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:08:23,517 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:08:25,160 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:08:26,909 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:08:27,628 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:08:28,597 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:08:28,685 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:08:29,322 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:08:30,367 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:08:32,015 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:08:32,047 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:08:32,762 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:08:33,785 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:08:35,523 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:08:36,236 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:13:39,138 +0200 [main] INFO  (Game.java:33) - you start new game
+2018-12-23 22:13:41,035 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:13:42,228 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:13:43,319 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:13:44,540 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:13:44,595 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:13:45,516 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:13:46,665 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:13:47,220 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:13:47,753 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:20:50,946 +0200 [main] INFO  (Game.java:32) - you start new game
+2018-12-23 22:20:55,262 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:20:58,579 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:21:02,725 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:28:55,114 +0200 [main] INFO  (Game.java:32) - you start new game
+2018-12-23 22:31:09,039 +0200 [main] INFO  (Game.java:32) - you start new game
+2018-12-23 22:32:04,868 +0200 [main] INFO  (Game.java:32) - you start new game
+2018-12-23 22:32:40,983 +0200 [main] INFO  (Game.java:32) - you start new game
+2018-12-23 22:32:44,281 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:32:46,690 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:32:49,193 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:32:51,602 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:32:51,729 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:32:54,073 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:32:54,122 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:83) - the clown catch pinkPinkBallPoolShape
+2018-12-23 22:32:54,122 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:32:56,544 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:32:58,515 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:89) - the clown catch pinkPinkGiftPoolShape and scoring a point
+2018-12-23 22:32:58,515 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:32:58,517 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 1
+2018-12-23 22:32:58,517 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:18) - the time becomes 60000 ms
+2018-12-23 22:32:58,517 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 57482
+2018-12-23 22:32:58,940 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:32:59,986 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:33:01,351 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:33:01,477 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:33:03,900 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:33:06,275 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:33:06,325 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:83) - the clown catch redRedBallPoolShape
+2018-12-23 22:33:06,325 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:33:07,278 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:33:08,686 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:33:08,814 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:33:11,111 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:33:13,504 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:33:13,553 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:83) - the clown catch pinkPinkBallPoolShape
+2018-12-23 22:33:13,553 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:33:14,506 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:33:15,461 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:89) - the clown catch redRedGiftPoolShape and scoring a point
+2018-12-23 22:33:15,461 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:33:15,461 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 2
+2018-12-23 22:33:15,461 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:18) - the time becomes 57482 ms
+2018-12-23 22:33:15,461 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 55538
+2018-12-23 22:33:15,883 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:33:18,401 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:33:18,532 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:33:20,407 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:89) - the clown catch pinkPinkGiftPoolShape and scoring a point
+2018-12-23 22:33:20,407 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:33:20,408 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 3
+2018-12-23 22:33:20,408 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:18) - the time becomes 55538 ms
+2018-12-23 22:33:20,408 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 65591
+2018-12-23 22:33:20,832 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:33:23,551 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:33:23,678 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:33:25,990 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:33:28,539 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:33:29,542 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:33:30,934 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:33:30,983 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:83) - the clown catch blueBlueGiftPoolShape
+2018-12-23 22:33:30,983 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:33:32,014 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:33:33,595 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:33:35,972 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:33:36,991 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:33:38,025 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:89) - the clown catch blueBlueBallPoolShape and scoring a point
+2018-12-23 22:33:38,025 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:33:38,025 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 4
+2018-12-23 22:33:38,025 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:18) - the time becomes 65591 ms
+2018-12-23 22:33:38,025 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 62975
+2018-12-23 22:33:38,448 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:33:39,620 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:33:41,128 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:33:41,176 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:83) - the clown catch redRedBallPoolShape
+2018-12-23 22:33:41,176 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:33:43,645 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:33:46,446 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:33:46,574 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:33:47,480 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:33:48,873 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:33:51,281 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:33:51,329 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:83) - the clown catch blueBlueGiftPoolShape
+2018-12-23 22:33:51,329 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:33:52,299 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:33:53,691 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:33:55,756 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:89) - the clown catch blueBlueBallPoolShape and scoring a point
+2018-12-23 22:33:55,756 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:33:55,756 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 5
+2018-12-23 22:33:55,756 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:18) - the time becomes 62975 ms
+2018-12-23 22:33:55,757 +0200 [AWT-EventQueue-0] INFO  (ObserverLevel.java:22) - you up to next level.
+2018-12-23 22:33:55,757 +0200 [AWT-EventQueue-0] INFO  (ObserverLevel.java:25) - the time becomes 75244
+2018-12-23 22:33:55,757 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 90244
+2018-12-23 22:33:56,179 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:33:57,164 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:33:57,745 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:33:59,370 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:34:01,044 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:34:01,172 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:34:02,048 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:34:02,643 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:34:04,221 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:34:05,864 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:34:06,882 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:34:07,478 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:34:07,837 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:89) - the clown catch redRedGiftPoolShape and scoring a point
+2018-12-23 22:34:07,837 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:34:07,837 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 6
+2018-12-23 22:34:07,837 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:18) - the time becomes 90244 ms
+2018-12-23 22:34:07,837 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 93164
+2018-12-23 22:34:08,481 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:34:09,061 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:34:10,139 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:34:10,734 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:34:12,359 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:34:13,346 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:34:13,940 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:34:14,769 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:83) - the clown catch pinkPinkBallPoolShape
+2018-12-23 22:34:14,769 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:34:14,926 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:34:15,504 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:34:16,412 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:34:16,490 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:34:17,100 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:34:18,806 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:34:20,387 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:34:21,233 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:83) - the clown catch blueBlueGiftPoolShape
+2018-12-23 22:34:21,233 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:34:21,389 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:34:21,986 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:34:23,111 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:34:23,741 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:34:25,351 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:34:26,369 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:34:27,043 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:34:28,105 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueGift is released in the view
+2018-12-23 22:34:28,686 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:34:29,092 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:89) - the clown catch pinkPinkBallPoolShape and scoring a point
+2018-12-23 22:34:29,092 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:34:29,092 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 7
+2018-12-23 22:34:29,092 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:18) - the time becomes 93164 ms
+2018-12-23 22:34:29,092 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 86909
+2018-12-23 22:34:29,733 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:34:30,362 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:34:31,377 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:34:31,957 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:34:32,379 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:89) - the clown catch blueBlueBallPoolShape and scoring a point
+2018-12-23 22:34:32,379 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:34:32,380 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 8
+2018-12-23 22:34:32,380 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:18) - the time becomes 86909 ms
+2018-12-23 22:34:32,380 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 98621
+2018-12-23 22:34:33,584 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:34:34,508 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:34:34,586 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedGift is released in the view
+2018-12-23 22:34:35,198 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:34:36,057 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:83) - the clown catch pinkPinkBallPoolShape
+2018-12-23 22:34:36,057 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkBall is released in the view
+2018-12-23 22:34:36,809 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:34:38,465 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:34:40,123 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:34:40,495 +0200 [AWT-EventQueue-0] INFO  (CatchingObjects.java:89) - the clown catch pinkPinkGiftPoolShape and scoring a point
+2018-12-23 22:34:40,495 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape PinkGift is released in the view
+2018-12-23 22:34:40,495 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:17) - your score is 9
+2018-12-23 22:34:40,495 +0200 [AWT-EventQueue-0] INFO  (ObserverPoints.java:18) - the time becomes 98621 ms
+2018-12-23 22:34:40,495 +0200 [AWT-EventQueue-0] INFO  (ObserverTime.java:16) - the time becomes 105506
+2018-12-23 22:34:41,152 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:34:41,748 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:34:42,748 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:34:43,547 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:47:08,176 +0200 [main] INFO  (Game.java:32) - you start new game
+2018-12-23 22:47:16,384 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:48:08,885 +0200 [main] INFO  (Game.java:32) - you start new game
+2018-12-23 22:48:17,026 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:48:24,047 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:48:48,316 +0200 [main] INFO  (Game.java:32) - you start new game
+2018-12-23 22:48:53,864 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:48:58,575 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:49:04,065 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:49:08,838 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedGift is added in the view
+2018-12-23 22:49:55,336 +0200 [main] INFO  (Game.java:32) - you start new game
+2018-12-23 22:50:03,382 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:50:22,217 +0200 [main] INFO  (Game.java:32) - you start new game
+2018-12-23 22:50:30,250 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:50:37,372 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view
+2018-12-23 22:50:44,854 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkBall is added in the view
+2018-12-23 22:50:46,389 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape BlueBall is released in the view
+2018-12-23 22:50:52,242 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:53:49,162 +0200 [main] INFO  (Game.java:32) - you start new game
+2018-12-23 22:53:52,491 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape RedBall is added in the view
+2018-12-23 22:53:54,932 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:53:57,325 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueBall is added in the view
+2018-12-23 22:53:59,733 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape BlueGift is added in the view
+2018-12-23 22:53:59,861 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:39) - the shape RedBall is released in the view
+2018-12-23 22:54:02,111 +0200 [AWT-EventQueue-0] INFO  (ShapesPool.java:27) - the shape PinkGift is added in the view

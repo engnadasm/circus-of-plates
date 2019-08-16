@@ -1,0 +1,1327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.2" icons="true" generate-combined-fragments="true">  
+  <object id="1" language="java" name="eg.edu.alexu.csd.oop.game.objects.Clown" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/objects/Clown.java" binary="false" label="clown" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="50" y="0"/>    
+    <execution id="2">      
+      <position height="21" width="155" x="5" y="99"/>    
+    </execution>    
+    <execution id="3">      
+      <position height="84" width="155" x="5" y="129"/>    
+    </execution>    
+    <execution id="5">      
+      <position height="21" width="155" x="5" y="171"/>    
+    </execution>    
+    <execution id="6">      
+      <position height="21" width="155" x="5" y="231"/>    
+    </execution>    
+    <execution id="7">      
+      <position height="21" width="155" x="5" y="299"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="21" width="155" x="5" y="369"/>    
+    </execution>    
+    <execution id="9">      
+      <position height="21" width="155" x="5" y="437"/>    
+    </execution>    
+    <execution id="10">      
+      <position height="21" width="155" x="5" y="507"/>    
+    </execution>  
+  </object>  
+  <object id="11" language="java" name="eg.edu.alexu.csd.oop.game.world.Game" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Game.java" binary="false" label="game" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="74" y="0"/>    
+    <execution id="12">      
+      <position height="63" width="146" x="164" y="78"/>    
+    </execution>    
+    <execution id="14">      
+      <position height="63" width="146" x="164" y="164"/>    
+    </execution>    
+    <execution id="17">      
+      <position height="63" width="146" x="164" y="236"/>    
+    </execution>    
+    <execution id="20">      
+      <position height="63" width="146" x="164" y="304"/>    
+    </execution>    
+    <execution id="23">      
+      <position height="63" width="146" x="164" y="371"/>    
+    </execution>    
+    <execution id="26">      
+      <position height="63" width="146" x="164" y="441"/>    
+    </execution>    
+    <execution id="29">      
+      <position height="63" width="146" x="164" y="510"/>    
+    </execution>    
+    <execution id="32">      
+      <position height="63" width="146" x="164" y="574"/>    
+    </execution>    
+    <execution id="35">      
+      <position height="63" width="146" x="164" y="1507"/>    
+    </execution>    
+    <execution id="38">      
+      <position height="63" width="146" x="164" y="639"/>    
+    </execution>    
+    <execution id="41">      
+      <position height="63" width="146" x="164" y="704"/>    
+    </execution>    
+    <execution id="44">      
+      <position height="63" width="146" x="164" y="770"/>    
+    </execution>    
+    <execution id="47">      
+      <position height="63" width="146" x="164" y="837"/>    
+    </execution>    
+    <execution id="50">      
+      <position height="63" width="146" x="164" y="902"/>    
+    </execution>    
+    <execution id="53">      
+      <position height="63" width="146" x="164" y="971"/>    
+    </execution>    
+    <execution id="56">      
+      <position height="63" width="146" x="164" y="1039"/>    
+    </execution>    
+    <execution id="59">      
+      <position height="63" width="146" x="164" y="1104"/>    
+    </execution>    
+    <execution id="62">      
+      <position height="63" width="146" x="164" y="1172"/>    
+    </execution>    
+    <execution id="65">      
+      <position height="63" width="146" x="164" y="1243"/>    
+    </execution>    
+    <execution id="68">      
+      <position height="63" width="146" x="164" y="1307"/>    
+    </execution>    
+    <execution id="71">      
+      <position height="63" width="146" x="164" y="1377"/>    
+    </execution>    
+    <execution id="74">      
+      <position height="63" width="146" x="164" y="1443"/>    
+    </execution>    
+    <execution id="77">      
+      <position height="63" width="146" x="164" y="1574"/>    
+    </execution>    
+    <execution id="80">      
+      <position height="63" width="146" x="164" y="1644"/>    
+    </execution>    
+    <execution id="83">      
+      <position height="63" width="146" x="164" y="1875"/>    
+    </execution>    
+    <execution id="86">      
+      <position height="63" width="146" x="164" y="1711"/>    
+    </execution>    
+    <execution id="89">      
+      <position height="63" width="146" x="164" y="1956"/>    
+    </execution>    
+    <execution id="92">      
+      <position height="63" width="146" x="164" y="1790"/>    
+    </execution>    
+    <execution id="95">      
+      <position height="63" width="146" x="164" y="2026"/>    
+    </execution>    
+    <execution id="98">      
+      <position height="63" width="146" x="164" y="2174"/>    
+    </execution>    
+    <execution id="101">      
+      <position height="63" width="146" x="164" y="2093"/>    
+    </execution>    
+    <execution id="104">      
+      <position height="63" width="146" x="164" y="2242"/>    
+    </execution>    
+    <execution id="107">      
+      <position height="63" width="146" x="164" y="2316"/>    
+    </execution>  
+  </object>  
+  <object id="110" language="java" name="eg.edu.alexu.csd.oop.game.world.GameInfo" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/GameInfo.java" binary="false" label="gameInfo" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="256" y="0"/>    
+    <execution id="16">      
+      <position height="21" width="146" x="314" y="185"/>    
+    </execution>    
+    <execution id="111">      
+      <position height="84" width="146" x="314" y="78"/>    
+    </execution>    
+    <execution id="113">      
+      <position height="21" width="146" x="314" y="120"/>    
+    </execution>    
+    <execution id="19">      
+      <position height="21" width="146" x="314" y="257"/>    
+    </execution>    
+    <execution id="22">      
+      <position height="21" width="146" x="314" y="325"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="21" width="146" x="314" y="392"/>    
+    </execution>    
+    <execution id="28">      
+      <position height="21" width="146" x="314" y="462"/>    
+    </execution>    
+    <execution id="31">      
+      <position height="21" width="146" x="314" y="531"/>    
+    </execution>    
+    <execution id="34">      
+      <position height="21" width="146" x="314" y="595"/>    
+    </execution>    
+    <execution id="37">      
+      <position height="21" width="146" x="314" y="1528"/>    
+    </execution>    
+    <execution id="40">      
+      <position height="21" width="146" x="314" y="660"/>    
+    </execution>    
+    <execution id="43">      
+      <position height="21" width="146" x="314" y="725"/>    
+    </execution>    
+    <execution id="46">      
+      <position height="21" width="146" x="314" y="791"/>    
+    </execution>    
+    <execution id="49">      
+      <position height="21" width="146" x="314" y="858"/>    
+    </execution>    
+    <execution id="52">      
+      <position height="21" width="146" x="314" y="923"/>    
+    </execution>    
+    <execution id="55">      
+      <position height="21" width="146" x="314" y="992"/>    
+    </execution>    
+    <execution id="58">      
+      <position height="21" width="146" x="314" y="1060"/>    
+    </execution>    
+    <execution id="61">      
+      <position height="21" width="146" x="314" y="1125"/>    
+    </execution>    
+    <execution id="64">      
+      <position height="21" width="146" x="314" y="1193"/>    
+    </execution>    
+    <execution id="67">      
+      <position height="21" width="146" x="314" y="1264"/>    
+    </execution>    
+    <execution id="70">      
+      <position height="21" width="146" x="314" y="1328"/>    
+    </execution>    
+    <execution id="73">      
+      <position height="21" width="146" x="314" y="1398"/>    
+    </execution>    
+    <execution id="76">      
+      <position height="21" width="146" x="314" y="1464"/>    
+    </execution>    
+    <execution id="114">      
+      <position height="63" width="146" x="314" y="2408"/>    
+    </execution>    
+    <execution id="117">      
+      <position height="63" width="146" x="314" y="2473"/>    
+    </execution>    
+    <execution id="120">      
+      <position height="21" width="146" x="314" y="623"/>    
+    </execution>    
+    <execution id="121">      
+      <position height="21" width="146" x="314" y="691"/>    
+    </execution>    
+    <execution id="122">      
+      <position height="21" width="146" x="314" y="759"/>    
+    </execution>    
+    <execution id="123">      
+      <position height="21" width="146" x="314" y="557"/>    
+    </execution>    
+    <execution id="124">      
+      <position height="21" width="146" x="314" y="964"/>    
+    </execution>    
+    <execution id="125">      
+      <position height="21" width="146" x="314" y="1227"/>    
+    </execution>    
+    <execution id="126">      
+      <position height="21" width="146" x="314" y="1297"/>    
+    </execution>    
+    <execution id="127">      
+      <position height="21" width="146" x="314" y="1363"/>    
+    </execution>    
+    <execution id="128">      
+      <position height="21" width="146" x="314" y="1498"/>    
+    </execution>    
+    <execution id="129">      
+      <position height="21" width="146" x="314" y="287"/>    
+    </execution>    
+    <execution id="130">      
+      <position height="21" width="146" x="314" y="508"/>    
+    </execution>    
+    <execution id="131">      
+      <position height="21" width="146" x="314" y="1164"/>    
+    </execution>    
+    <execution id="132">      
+      <position height="21" width="146" x="314" y="1435"/>    
+    </execution>    
+    <execution id="133">      
+      <position height="21" width="146" x="314" y="1565"/>    
+    </execution>    
+    <execution id="134">      
+      <position height="21" width="146" x="314" y="1629"/>    
+    </execution>    
+    <execution id="135">      
+      <position height="21" width="146" x="314" y="1761"/>    
+    </execution>    
+    <execution id="136">      
+      <position height="21" width="146" x="314" y="1698"/>    
+    </execution>    
+    <execution id="137">      
+      <position height="21" width="146" x="314" y="1849"/>    
+    </execution>    
+    <execution id="138">      
+      <position height="21" width="146" x="314" y="2008"/>    
+    </execution>    
+    <execution id="139">      
+      <position height="21" width="146" x="314" y="2136"/>    
+    </execution>    
+    <execution id="140">      
+      <position height="21" width="146" x="314" y="2358"/>    
+    </execution>    
+    <execution id="141">      
+      <position height="21" width="146" x="314" y="2609"/>    
+    </execution>    
+    <execution id="142">      
+      <position height="21" width="146" x="314" y="2540"/>    
+    </execution>    
+    <execution id="143">      
+      <position height="21" width="146" x="314" y="2684"/>    
+    </execution>    
+    <execution id="144">      
+      <position height="21" width="146" x="314" y="1933"/>    
+    </execution>    
+    <execution id="145">      
+      <position height="21" width="146" x="314" y="2074"/>    
+    </execution>    
+    <execution id="146">      
+      <position height="21" width="146" x="314" y="2219"/>    
+    </execution>    
+    <execution id="147">      
+      <position height="21" width="146" x="314" y="2283"/>    
+    </execution>    
+    <execution id="148">      
+      <position height="21" width="146" x="314" y="2383"/>    
+    </execution>    
+    <execution id="149">      
+      <position height="21" width="146" x="314" y="2575"/>    
+    </execution>    
+    <execution id="150">      
+      <position height="21" width="146" x="314" y="2649"/>    
+    </execution>    
+    <execution id="151">      
+      <position height="21" width="146" x="314" y="2722"/>    
+    </execution>    
+    <execution id="152">      
+      <position height="21" width="146" x="314" y="2794"/>    
+    </execution>    
+    <execution id="153">      
+      <position height="21" width="146" x="314" y="2865"/>    
+    </execution>    
+    <execution id="154">      
+      <position height="21" width="146" x="314" y="2935"/>    
+    </execution>  
+  </object>  
+  <object id="155" language="java" name="eg.edu.alexu.csd.oop.game.world.CatchingObjects" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/CatchingObjects.java" binary="false" 
+    label="catchingObjects" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="556" y="0"/>    
+    <execution id="156">      
+      <position height="63" width="146" x="464" y="210"/>    
+    </execution>    
+    <execution id="158">      
+      <position height="63" width="146" x="464" y="278"/>    
+    </execution>    
+    <execution id="160">      
+      <position height="63" width="146" x="464" y="348"/>    
+    </execution>    
+    <execution id="162">      
+      <position height="63" width="146" x="464" y="416"/>    
+    </execution>    
+    <execution id="85">      
+      <position height="21" width="146" x="464" y="1896"/>    
+    </execution>    
+    <execution id="164">      
+      <position height="63" width="146" x="464" y="486"/>    
+    </execution>    
+    <execution id="166">      
+      <position height="63" width="146" x="464" y="602"/>    
+    </execution>    
+    <execution id="168">      
+      <position height="63" width="146" x="464" y="670"/>    
+    </execution>    
+    <execution id="170">      
+      <position height="63" width="146" x="464" y="738"/>    
+    </execution>    
+    <execution id="172">      
+      <position height="63" width="146" x="464" y="78"/>    
+    </execution>    
+    <execution id="175">      
+      <position height="63" width="146" x="464" y="141"/>    
+    </execution>    
+    <execution id="178">      
+      <position height="63" width="146" x="464" y="819"/>    
+    </execution>    
+    <execution id="181">      
+      <position height="63" width="146" x="464" y="892"/>    
+    </execution>    
+    <execution id="184">      
+      <position height="84" width="146" x="464" y="984"/>    
+    </execution>    
+    <execution id="186">      
+      <position height="21" width="146" x="464" y="1026"/>    
+    </execution>    
+    <execution id="187">      
+      <position height="84" width="146" x="464" y="1090"/>    
+    </execution>    
+    <execution id="189">      
+      <position height="21" width="146" x="464" y="1132"/>    
+    </execution>    
+    <execution id="190">      
+      <position height="21" width="146" x="464" y="1247"/>    
+    </execution>    
+    <execution id="191">      
+      <position height="21" width="146" x="464" y="1315"/>    
+    </execution>    
+    <execution id="192">      
+      <position height="21" width="146" x="464" y="1408"/>    
+    </execution>    
+    <execution id="193">      
+      <position height="21" width="146" x="464" y="1465"/>    
+    </execution>  
+  </object>  
+  <object id="194" language="java" name="eg.edu.alexu.csd.oop.game.objects.Shape" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/objects/Shape.java" binary="false" label="shape" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="641" y="0"/>    
+    <execution id="195">      
+      <position height="21" width="155" x="614" y="187"/>    
+    </execution>    
+    <execution id="196">      
+      <position height="21" width="155" x="614" y="357"/>    
+    </execution>    
+    <execution id="197">      
+      <position height="21" width="155" x="614" y="420"/>    
+    </execution>    
+    <execution id="198">      
+      <position height="21" width="155" x="614" y="617"/>    
+    </execution>    
+    <execution id="199">      
+      <position height="21" width="155" x="614" y="682"/>    
+    </execution>    
+    <execution id="200">      
+      <position height="21" width="155" x="614" y="790"/>    
+    </execution>  
+  </object>  
+  <object id="201" language="java" name="eg.edu.alexu.csd.oop.game.world.StateMiss" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/StateMiss.java" binary="false" label="stateMiss" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="678" y="0"/>    
+    <execution id="79">      
+      <position height="21" width="146" x="614" y="1595"/>    
+    </execution>    
+    <execution id="82">      
+      <position height="21" width="146" x="614" y="1665"/>    
+    </execution>    
+    <execution id="202">      
+      <position height="63" width="146" x="614" y="536"/>    
+    </execution>    
+    <execution id="204">      
+      <position height="63" width="146" x="614" y="943"/>    
+    </execution>    
+    <execution id="206">      
+      <position height="63" width="146" x="614" y="1206"/>    
+    </execution>    
+    <execution id="208">      
+      <position height="63" width="146" x="614" y="1276"/>    
+    </execution>    
+    <execution id="210">      
+      <position height="97" width="146" x="614" y="1342"/>    
+    </execution>    
+    <execution id="214">      
+      <position height="63" width="146" x="614" y="1477"/>    
+    </execution>    
+    <execution id="216">      
+      <position height="63" width="146" x="773" y="166"/>    
+    </execution>  
+  </object>  
+  <object id="218" language="java" name="eg.edu.alexu.csd.oop.game.world.StateCatchnopoint" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/StateCatchnopoint.java" binary="false" 
+    label="stateCatchnopoint" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="769" y="0"/>    
+    <execution id="174">      
+      <position height="21" width="146" x="764" y="99"/>    
+    </execution>    
+    <execution id="177">      
+      <position height="21" width="146" x="764" y="162"/>    
+    </execution>    
+    <execution id="219">      
+      <position height="63" width="146" x="764" y="266"/>    
+    </execution>    
+    <execution id="221">      
+      <position height="63" width="146" x="764" y="487"/>    
+    </execution>    
+    <execution id="223">      
+      <position height="78" width="146" x="764" y="1143"/>    
+    </execution>    
+    <execution id="227">      
+      <position height="63" width="146" x="764" y="1414"/>    
+    </execution>    
+    <execution id="229">      
+      <position height="63" width="146" x="764" y="1544"/>    
+    </execution>    
+    <execution id="231">      
+      <position height="63" width="146" x="764" y="1608"/>    
+    </execution>    
+    <execution id="233">      
+      <position height="63" width="146" x="923" y="336"/>    
+    </execution>    
+    <execution id="235">      
+      <position height="63" width="146" x="923" y="1740"/>    
+    </execution>    
+    <execution id="237">      
+      <position height="63" width="146" x="923" y="596"/>    
+    </execution>    
+    <execution id="239">      
+      <position height="63" width="146" x="923" y="661"/>    
+    </execution>  
+  </object>  
+  <object id="241" language="java" name="eg.edu.alexu.csd.oop.game.world.StateCatchpoint" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/StateCatchpoint.java" binary="false" 
+    label="stateCatchpoint" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="761" y="0"/>    
+    <execution id="180">      
+      <position height="21" width="146" x="914" y="840"/>    
+    </execution>    
+    <execution id="183">      
+      <position height="21" width="146" x="914" y="913"/>    
+    </execution>    
+    <execution id="242">      
+      <position height="63" width="146" x="1073" y="399"/>    
+    </execution>    
+    <execution id="244">      
+      <position height="63" width="146" x="1073" y="769"/>    
+    </execution>    
+    <execution id="246">      
+      <position height="63" width="146" x="1073" y="99"/>    
+    </execution>    
+    <execution id="249">      
+      <position height="63" width="146" x="1073" y="168"/>    
+    </execution>    
+    <execution id="252">      
+      <position height="63" width="146" x="1073" y="242"/>    
+    </execution>    
+    <execution id="255">      
+      <position height="63" width="146" x="1073" y="312"/>    
+    </execution>    
+    <execution id="258">      
+      <position height="63" width="146" x="1073" y="1677"/>    
+    </execution>  
+  </object>  
+  <object id="260" language="java" name="eg.edu.alexu.csd.oop.game.world.ObserverPoints" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/ObserverPoints.java" binary="false" 
+    label="observerPoints" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1254" y="0"/>    
+    <execution id="248">      
+      <position height="21" width="146" x="1223" y="120"/>    
+    </execution>    
+    <execution id="261">      
+      <position height="63" width="146" x="1223" y="1912"/>    
+    </execution>    
+    <execution id="263">      
+      <position height="63" width="146" x="1223" y="2053"/>    
+    </execution>    
+    <execution id="265">      
+      <position height="63" width="146" x="1223" y="2198"/>    
+    </execution>  
+  </object>  
+  <object id="267" language="java" name="eg.edu.alexu.csd.oop.game.world.ObserverView" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/ObserverView.java" binary="false" label="observerView" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1334" y="0"/>    
+    <execution id="251">      
+      <position height="21" width="146" x="1373" y="189"/>    
+    </execution>    
+    <execution id="268">      
+      <position height="63" width="146" x="1373" y="2262"/>    
+    </execution>    
+    <execution id="270">      
+      <position height="63" width="146" x="1373" y="2362"/>    
+    </execution>    
+    <execution id="272">      
+      <position height="63" width="146" x="1373" y="2554"/>    
+    </execution>  
+  </object>  
+  <object id="274" language="java" name="eg.edu.alexu.csd.oop.game.world.ObserverTime" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/ObserverTime.java" binary="false" label="observerTime" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1361" y="0"/>    
+    <execution id="254">      
+      <position height="21" width="146" x="1523" y="263"/>    
+    </execution>    
+    <execution id="275">      
+      <position height="63" width="146" x="1523" y="2628"/>    
+    </execution>    
+    <execution id="277">      
+      <position height="63" width="146" x="1523" y="2701"/>    
+    </execution>    
+    <execution id="279">      
+      <position height="63" width="146" x="1523" y="2773"/>    
+    </execution>    
+    <execution id="281">      
+      <position height="63" width="146" x="1523" y="2844"/>    
+    </execution>    
+    <execution id="283">      
+      <position height="63" width="146" x="1523" y="2914"/>    
+    </execution>  
+  </object>  
+  <object id="285" language="java" name="eg.edu.alexu.csd.oop.game.world.ObserverLevel" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/ObserverLevel.java" binary="false" label="observerLevel" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1233" y="0"/>    
+    <execution id="257">      
+      <position height="21" width="146" x="1673" y="333"/>    
+    </execution>    
+    <execution id="286">      
+      <position height="166" width="146" x="1673" y="1725"/>    
+    </execution>    
+    <execution id="294">      
+      <position height="63" width="146" x="1673" y="1987"/>    
+    </execution>    
+    <execution id="296">      
+      <position height="214" width="146" x="1673" y="2080"/>    
+    </execution>    
+    <execution id="310">      
+      <position height="63" width="146" x="1673" y="2337"/>    
+    </execution>    
+    <execution id="312">      
+      <position height="63" width="146" x="1673" y="2588"/>    
+    </execution>    
+    <execution id="314">      
+      <position height="63" width="146" x="1673" y="2519"/>    
+    </execution>    
+    <execution id="316">      
+      <position height="63" width="146" x="1673" y="2663"/>    
+    </execution>    
+    <execution id="318">      
+      <position height="63" width="146" x="1673" y="1659"/>    
+    </execution>    
+    <execution id="321">      
+      <position height="63" width="146" x="1673" y="1589"/>    
+    </execution>  
+  </object>  
+  <object id="324" language="java" name="eg.edu.alexu.csd.oop.game.world.Easy" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Easy.java" binary="false" label="easy" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="1848" y="0"/>    
+    <execution id="288">      
+      <position height="21" width="146" x="1823" y="1746"/>    
+    </execution>    
+    <execution id="309">      
+      <position height="21" width="146" x="1823" y="2252"/>    
+    </execution>    
+    <execution id="307">      
+      <position height="21" width="146" x="1823" y="2219"/>    
+    </execution>    
+    <execution id="325">      
+      <position height="21" width="146" x="1823" y="281"/>    
+    </execution>  
+  </object>  
+  <object id="326" language="java" name="eg.edu.alexu.csd.oop.game.world.Medium" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Medium.java" binary="false" label="medium" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="1920" y="0"/>    
+    <execution id="290">      
+      <position height="21" width="146" x="1973" y="1788"/>    
+    </execution>    
+    <execution id="305">      
+      <position height="21" width="146" x="1973" y="2181"/>    
+    </execution>    
+    <execution id="303">      
+      <position height="21" width="146" x="1973" y="2155"/>    
+    </execution>    
+    <execution id="327">      
+      <position height="21" width="146" x="1973" y="208"/>    
+    </execution>  
+  </object>  
+  <object id="328" language="java" name="eg.edu.alexu.csd.oop.game.world.Hard" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Hard.java" binary="false" label="hard" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="1989" y="0"/>    
+    <execution id="292">      
+      <position height="21" width="146" x="2123" y="1840"/>    
+    </execution>    
+    <execution id="298">      
+      <position height="21" width="146" x="2123" y="2101"/>    
+    </execution>    
+    <execution id="300">      
+      <position height="21" width="146" x="2123" y="2131"/>    
+    </execution>    
+    <execution id="329">      
+      <position height="21" width="146" x="2123" y="120"/>    
+    </execution>  
+  </object>  
+  <object id="330" language="java" name="eg.edu.alexu.csd.oop.game.world.LevelIterator" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/LevelIterator.java" binary="false" label="levelIterator" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="2310" y="0"/>    
+    <execution id="331">      
+      <position height="63" width="146" x="2273" y="99"/>    
+    </execution>    
+    <execution id="333">      
+      <position height="63" width="146" x="2273" y="187"/>    
+    </execution>    
+    <execution id="335">      
+      <position height="63" width="146" x="2273" y="260"/>    
+    </execution>    
+    <execution id="320">      
+      <position height="21" width="146" x="2273" y="1680"/>    
+    </execution>    
+    <execution id="323">      
+      <position height="21" width="146" x="2273" y="1610"/>    
+    </execution>  
+  </object>  
+  <object id="337" language="java" name="eg.edu.alexu.csd.oop.game.world.TwoEmptyStacks" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/TwoEmptyStacks.java" binary="false" 
+    label="twoEmptyStacks" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="693" y="0"/>    
+    <execution id="106">      
+      <position height="21" width="146" x="764" y="2263"/>    
+    </execution>    
+    <execution id="109">      
+      <position height="21" width="146" x="764" y="2337"/>    
+    </execution>    
+    <execution id="338">      
+      <position height="63" width="146" x="2423" y="1226"/>    
+    </execution>  
+  </object>  
+  <object id="340" language="java" name="eg.edu.alexu.csd.oop.game.world.NoEmptyStacks" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/NoEmptyStacks.java" binary="false" label="noEmptyStacks" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="917" y="0"/>    
+    <execution id="88">      
+      <position height="21" width="146" x="914" y="1732"/>    
+    </execution>    
+    <execution id="94">      
+      <position height="21" width="146" x="914" y="1811"/>    
+    </execution>    
+    <execution id="341">      
+      <position height="63" width="146" x="2573" y="1294"/>    
+    </execution>  
+  </object>  
+  <object id="343" language="java" name="eg.edu.alexu.csd.oop.game.world.RightStackEmpty" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/RightStackEmpty.java" binary="false" 
+    label="rightStackEmpty" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="743" y="0"/>    
+    <execution id="91">      
+      <position height="21" width="146" x="1064" y="1977"/>    
+    </execution>    
+    <execution id="97">      
+      <position height="21" width="146" x="1064" y="2047"/>    
+    </execution>    
+    <execution id="344">      
+      <position height="63" width="146" x="2723" y="1387"/>    
+    </execution>  
+  </object>  
+  <object id="346" language="java" name="eg.edu.alexu.csd.oop.game.world.LeftStackEmpty" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/LeftStackEmpty.java" binary="false" 
+    label="leftStackEmpty" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="902" y="0"/>    
+    <execution id="100">      
+      <position height="21" width="146" x="1214" y="2195"/>    
+    </execution>    
+    <execution id="103">      
+      <position height="21" width="146" x="1214" y="2114"/>    
+    </execution>    
+    <execution id="347">      
+      <position height="63" width="146" x="2873" y="1444"/>    
+    </execution>  
+  </object>  
+  <object id="349" language="java" name="eg.edu.alexu.csd.oop.game.world.Observer" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/world/Observer.java" binary="false" label="observer" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="735" y="0"/>    
+    <execution id="116">      
+      <position height="21" width="146" x="1364" y="2429"/>    
+    </execution>  
+  </object>  
+  <object id="350" language="java" name="eg.edu.alexu.csd.oop.game.objects.DynamicEnvironment" 
+    project="circus of plates" file="/circus of plates/src/eg/edu/alexu/csd/oop/game/objects/DynamicEnvironment.java" 
+    binary="false" label="dynamicEnvironment" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="805" y="0"/>    
+    <execution id="119">      
+      <position height="21" width="155" x="1514" y="2494"/>    
+    </execution>    
+    <execution id="213">      
+      <position height="21" width="155" x="1814" y="1397"/>    
+    </execution>    
+    <execution id="226">      
+      <position height="21" width="155" x="1814" y="1179"/>    
+    </execution>    
+    <execution id="351">      
+      <position height="63" width="155" x="3173" y="99"/>    
+    </execution>    
+    <execution id="354">      
+      <position height="63" width="155" x="3173" y="188"/>    
+    </execution>    
+    <execution id="357">      
+      <position height="63" width="155" x="3173" y="277"/>    
+    </execution>    
+    <execution id="360">      
+      <position height="63" width="155" x="3173" y="359"/>    
+    </execution>    
+    <execution id="363">      
+      <position height="63" width="155" x="3173" y="540"/>    
+    </execution>  
+  </object>  
+  <object id="366" language="java" name="eg.edu.alexu.csd.oop.game.objects.ConcreteProgram" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/objects/ConcreteProgram.java" binary="false" 
+    label="concreteProgram" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="790" y="0"/>    
+    <execution id="353">      
+      <position height="21" width="155" x="3332" y="120"/>    
+    </execution>    
+    <execution id="356">      
+      <position height="21" width="155" x="3332" y="209"/>    
+    </execution>    
+    <execution id="359">      
+      <position height="21" width="155" x="3332" y="298"/>    
+    </execution>    
+    <execution id="362">      
+      <position height="21" width="155" x="3332" y="380"/>    
+    </execution>    
+    <execution id="367">      
+      <position height="63" width="155" x="3332" y="408"/>    
+    </execution>    
+    <execution id="370">      
+      <position height="63" width="155" x="3332" y="473"/>    
+    </execution>  
+  </object>  
+  <object id="373" language="java" name="eg.edu.alexu.csd.oop.game.objects.ShapeFactory" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/objects/ShapeFactory.java" binary="false" label="shapeFactory" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="798" y="0"/>    
+    <execution id="369">      
+      <position height="21" width="155" x="3491" y="429"/>    
+    </execution>    
+    <execution id="372">      
+      <position height="21" width="155" x="3491" y="494"/>    
+    </execution>  
+  </object>  
+  <object id="374" language="java" name="eg.edu.alexu.csd.oop.game.pools.ShapesPool" project="circus of plates" 
+    file="/circus of plates/src/eg/edu/alexu/csd/oop/game/pools/ShapesPool.java" binary="false" label="shapesPool" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="820" y="0"/>    
+    <execution id="365">      
+      <position height="21" width="147" x="3650" y="561"/>    
+    </execution>  
+  </object>  
+  <message id="4" operation="Clown()" asynchronous="false">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </message>  
+  <message id="13" operation="getInstance():eg.edu.alexu.csd.oop.game.objects.Clown" asynchronous="false">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="2"/>  
+  </message>  
+  <message id="15" operation="getEnvironment():eg.edu.alexu.csd.oop.game.objects.DynamicEnvironment" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="16"/>  
+  </message>  
+  <message id="18" operation="getConstant():java.util.List&lt;GameObject&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="19"/>  
+  </message>  
+  <message id="21" operation="getControlable():java.util.List&lt;GameObject&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="22"/>  
+  </message>  
+  <message id="24" operation="getInstance():eg.edu.alexu.csd.oop.game.world.GameInfo" asynchronous="false">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="27" operation="getLeftStack():java.util.List&lt;Shape&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="28"/>  
+  </message>  
+  <message id="30" operation="getLevel():eg.edu.alexu.csd.oop.game.world.LevelStrategy" asynchronous="false">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="31"/>  
+  </message>  
+  <message id="33" operation="getMovable():java.util.List&lt;GameObject&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="34"/>  
+  </message>  
+  <message id="36" operation="setTime(long):void" asynchronous="false">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>  
+  <message id="39" operation="getRightStack():java.util.List&lt;Shape&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="40"/>  
+  </message>  
+  <message id="42" operation="getScore():int" asynchronous="false">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="43"/>  
+  </message>  
+  <message id="45" operation="getStartTime():long" asynchronous="false">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="46"/>  
+  </message>  
+  <message id="48" operation="getTime():long" asynchronous="false">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="49"/>  
+  </message>  
+  <message id="51" operation="setConstant(java.util.List&lt;eg.edu.alexu.csd.oop.game.GameObject&gt;):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="52"/>  
+  </message>  
+  <message id="54" operation="setControlable(java.util.List&lt;eg.edu.alexu.csd.oop.game.GameObject&gt;):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="55"/>  
+  </message>  
+  <message id="57" operation="setEnvironment(eg.edu.alexu.csd.oop.game.objects.DynamicEnvironment):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="58"/>  
+  </message>  
+  <message id="60" operation="setLeftStack(java.util.List&lt;eg.edu.alexu.csd.oop.game.objects.Shape&gt;):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="61"/>  
+  </message>  
+  <message id="63" operation="setLevel(eg.edu.alexu.csd.oop.game.world.LevelStrategy):void" asynchronous="false">    
+    <end type="SOURCE" refId="62"/>    
+    <end type="TARGET" refId="64"/>  
+  </message>  
+  <message id="66" operation="setMovable(java.util.List&lt;eg.edu.alexu.csd.oop.game.GameObject&gt;):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="67"/>  
+  </message>  
+  <message id="69" operation="setRightStack(java.util.List&lt;eg.edu.alexu.csd.oop.game.objects.Shape&gt;):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="70"/>  
+  </message>  
+  <message id="72" operation="setScore(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="73"/>  
+  </message>  
+  <message id="75" operation="setStartTime(long):void" asynchronous="false">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="76"/>  
+  </message>  
+  <message id="78" operation="StateMiss()" asynchronous="false">    
+    <end type="SOURCE" refId="77"/>    
+    <end type="TARGET" refId="79"/>  
+  </message>  
+  <message id="81" 
+    operation="doaction(eg.edu.alexu.csd.oop.game.objects.Shape,java.util.List&lt;eg.edu.alexu.csd.oop.game.objects.Shape&gt;,org.apache.log4j.Logger):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="82"/>  
+  </message>  
+  <message id="84" operation="CatchingObjects(eg.edu.alexu.csd.oop.game.objects.Shape,org.apache.log4j.Logger)" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="83"/>    
+    <end type="TARGET" refId="85"/>  
+  </message>  
+  <message id="87" operation="NoEmptyStacks()" asynchronous="false">    
+    <end type="SOURCE" refId="86"/>    
+    <end type="TARGET" refId="88"/>  
+  </message>  
+  <message id="90" operation="RightStackEmpty()" asynchronous="false">    
+    <end type="SOURCE" refId="89"/>    
+    <end type="TARGET" refId="91"/>  
+  </message>  
+  <message id="93" operation="accept(eg.edu.alexu.csd.oop.game.world.EmptyStackVisitor):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="92"/>    
+    <end type="TARGET" refId="94"/>  
+  </message>  
+  <message id="96" operation="accept(eg.edu.alexu.csd.oop.game.world.EmptyStackVisitor):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="95"/>    
+    <end type="TARGET" refId="97"/>  
+  </message>  
+  <message id="99" operation="accept(eg.edu.alexu.csd.oop.game.world.EmptyStackVisitor):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="100"/>  
+  </message>  
+  <message id="102" operation="LeftStackEmpty()" asynchronous="false">    
+    <end type="SOURCE" refId="101"/>    
+    <end type="TARGET" refId="103"/>  
+  </message>  
+  <message id="105" operation="TwoEmptyStacks()" asynchronous="false">    
+    <end type="SOURCE" refId="104"/>    
+    <end type="TARGET" refId="106"/>  
+  </message>  
+  <message id="108" operation="accept(eg.edu.alexu.csd.oop.game.world.EmptyStackVisitor):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="107"/>    
+    <end type="TARGET" refId="109"/>  
+  </message>  
+  <message id="112" operation="GameInfo()" asynchronous="false">    
+    <end type="SOURCE" refId="111"/>    
+    <end type="TARGET" refId="113"/>  
+  </message>  
+  <message id="115" operation="Observer()" asynchronous="false">    
+    <end type="SOURCE" refId="114"/>    
+    <end type="TARGET" refId="116"/>  
+  </message>  
+  <message id="118" operation="DynamicEnvironment()" asynchronous="false">    
+    <end type="SOURCE" refId="117"/>    
+    <end type="TARGET" refId="119"/>  
+  </message>  
+  <message id="157" operation="getX():int" asynchronous="false">    
+    <end type="SOURCE" refId="156"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="159" operation="getHeight():int" asynchronous="false">    
+    <end type="SOURCE" refId="158"/>    
+    <end type="TARGET" refId="7"/>  
+  </message>  
+  <message id="161" operation="getY():int" asynchronous="false">    
+    <end type="SOURCE" refId="160"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="163" operation="getWidth():int" asynchronous="false">    
+    <end type="SOURCE" refId="162"/>    
+    <end type="TARGET" refId="9"/>  
+  </message>  
+  <message id="165" operation="getInstance():eg.edu.alexu.csd.oop.game.objects.Clown" asynchronous="false">    
+    <end type="SOURCE" refId="164"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="167" operation="getInstance():eg.edu.alexu.csd.oop.game.world.GameInfo" asynchronous="false">    
+    <end type="SOURCE" refId="166"/>    
+    <end type="TARGET" refId="120"/>  
+  </message>  
+  <message id="169" operation="getRightStack():java.util.List&lt;Shape&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="168"/>    
+    <end type="TARGET" refId="121"/>  
+  </message>  
+  <message id="171" operation="getLeftStack():java.util.List&lt;Shape&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="170"/>    
+    <end type="TARGET" refId="122"/>  
+  </message>  
+  <message id="173" operation="StateCatchnopoint()" asynchronous="false">    
+    <end type="SOURCE" refId="172"/>    
+    <end type="TARGET" refId="174"/>  
+  </message>  
+  <message id="176" 
+    operation="doaction(eg.edu.alexu.csd.oop.game.objects.Shape,java.util.List&lt;eg.edu.alexu.csd.oop.game.objects.Shape&gt;,org.apache.log4j.Logger):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="175"/>    
+    <end type="TARGET" refId="177"/>  
+  </message>  
+  <message id="179" operation="StateCatchpoint()" asynchronous="false">    
+    <end type="SOURCE" refId="178"/>    
+    <end type="TARGET" refId="180"/>  
+  </message>  
+  <message id="182" 
+    operation="doaction(eg.edu.alexu.csd.oop.game.objects.Shape,java.util.List&lt;eg.edu.alexu.csd.oop.game.objects.Shape&gt;,org.apache.log4j.Logger):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="181"/>    
+    <end type="TARGET" refId="183"/>  
+  </message>  
+  <message id="185" operation="full(java.util.List&lt;eg.edu.alexu.csd.oop.game.objects.Shape&gt;):boolean" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="184"/>    
+    <end type="TARGET" refId="186"/>  
+  </message>  
+  <message id="188" operation="empty(char):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="187"/>    
+    <end type="TARGET" refId="189"/>  
+  </message>  
+  <message id="203" operation="getInstance():eg.edu.alexu.csd.oop.game.world.GameInfo" asynchronous="false">    
+    <end type="SOURCE" refId="202"/>    
+    <end type="TARGET" refId="123"/>  
+  </message>  
+  <message id="205" operation="getMovable():java.util.List&lt;GameObject&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="204"/>    
+    <end type="TARGET" refId="124"/>  
+  </message>  
+  <message id="207" operation="getMovable():java.util.List&lt;GameObject&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="206"/>    
+    <end type="TARGET" refId="125"/>  
+  </message>  
+  <message id="209" operation="setMovable(java.util.List&lt;eg.edu.alexu.csd.oop.game.GameObject&gt;):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="208"/>    
+    <end type="TARGET" refId="126"/>  
+  </message>  
+  <message id="211" operation="getEnvironment():eg.edu.alexu.csd.oop.game.objects.DynamicEnvironment" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="210"/>    
+    <end type="TARGET" refId="127"/>  
+  </message>  
+  <message id="212" operation="release(eg.edu.alexu.csd.oop.game.GameObject,org.apache.log4j.Logger):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="210"/>    
+    <end type="TARGET" refId="213"/>  
+  </message>  
+  <message id="215" operation="setEnvironment(eg.edu.alexu.csd.oop.game.objects.DynamicEnvironment):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="214"/>    
+    <end type="TARGET" refId="128"/>  
+  </message>  
+  <message id="217" operation="setY(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="216"/>    
+    <end type="TARGET" refId="195"/>  
+  </message>  
+  <message id="220" operation="getInstance():eg.edu.alexu.csd.oop.game.world.GameInfo" asynchronous="false">    
+    <end type="SOURCE" refId="219"/>    
+    <end type="TARGET" refId="129"/>  
+  </message>  
+  <message id="222" operation="getMovable():java.util.List&lt;GameObject&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="221"/>    
+    <end type="TARGET" refId="130"/>  
+  </message>  
+  <message id="224" operation="getEnvironment():eg.edu.alexu.csd.oop.game.objects.DynamicEnvironment" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="223"/>    
+    <end type="TARGET" refId="131"/>  
+  </message>  
+  <message id="225" operation="release(eg.edu.alexu.csd.oop.game.GameObject,org.apache.log4j.Logger):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="223"/>    
+    <end type="TARGET" refId="226"/>  
+  </message>  
+  <message id="228" operation="setEnvironment(eg.edu.alexu.csd.oop.game.objects.DynamicEnvironment):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="227"/>    
+    <end type="TARGET" refId="132"/>  
+  </message>  
+  <message id="230" operation="setMovable(java.util.List&lt;eg.edu.alexu.csd.oop.game.GameObject&gt;):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="229"/>    
+    <end type="TARGET" refId="133"/>  
+  </message>  
+  <message id="232" operation="getMovable():java.util.List&lt;GameObject&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="231"/>    
+    <end type="TARGET" refId="134"/>  
+  </message>  
+  <message id="234" operation="setY(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="233"/>    
+    <end type="TARGET" refId="196"/>  
+  </message>  
+  <message id="236" operation="getControlable():java.util.List&lt;GameObject&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="235"/>    
+    <end type="TARGET" refId="135"/>  
+  </message>  
+  <message id="238" operation="getY():int" asynchronous="false">    
+    <end type="SOURCE" refId="237"/>    
+    <end type="TARGET" refId="198"/>  
+  </message>  
+  <message id="240" operation="setState(eg.edu.alexu.csd.oop.game.world.State):void" asynchronous="false">    
+    <end type="SOURCE" refId="239"/>    
+    <end type="TARGET" refId="199"/>  
+  </message>  
+  <message id="243" operation="setY(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="242"/>    
+    <end type="TARGET" refId="197"/>  
+  </message>  
+  <message id="245" operation="setState(eg.edu.alexu.csd.oop.game.world.State):void" asynchronous="false">    
+    <end type="SOURCE" refId="244"/>    
+    <end type="TARGET" refId="200"/>  
+  </message>  
+  <message id="247" operation="ObserverPoints(eg.edu.alexu.csd.oop.game.world.GameInfo,org.apache.log4j.Logger)" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="246"/>    
+    <end type="TARGET" refId="248"/>  
+  </message>  
+  <message id="250" 
+    operation="ObserverView(eg.edu.alexu.csd.oop.game.world.GameInfo,java.util.List&lt;eg.edu.alexu.csd.oop.game.objects.Shape&gt;,org.apache.log4j.Logger)" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="249"/>    
+    <end type="TARGET" refId="251"/>  
+  </message>  
+  <message id="253" operation="ObserverTime(eg.edu.alexu.csd.oop.game.world.GameInfo,org.apache.log4j.Logger)" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="252"/>    
+    <end type="TARGET" refId="254"/>  
+  </message>  
+  <message id="256" operation="ObserverLevel(eg.edu.alexu.csd.oop.game.world.GameInfo,org.apache.log4j.Logger)" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="255"/>    
+    <end type="TARGET" refId="257"/>  
+  </message>  
+  <message id="259" operation="notifyAllObservers():void" asynchronous="false">    
+    <end type="SOURCE" refId="258"/>    
+    <end type="TARGET" refId="136"/>  
+  </message>  
+  <message id="262" operation="attach(eg.edu.alexu.csd.oop.game.world.Observer):void" asynchronous="false">    
+    <end type="SOURCE" refId="261"/>    
+    <end type="TARGET" refId="144"/>  
+  </message>  
+  <message id="264" operation="getScore():int" asynchronous="false">    
+    <end type="SOURCE" refId="263"/>    
+    <end type="TARGET" refId="145"/>  
+  </message>  
+  <message id="266" operation="setScore(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="265"/>    
+    <end type="TARGET" refId="146"/>  
+  </message>  
+  <message id="269" operation="attach(eg.edu.alexu.csd.oop.game.world.Observer):void" asynchronous="false">    
+    <end type="SOURCE" refId="268"/>    
+    <end type="TARGET" refId="147"/>  
+  </message>  
+  <message id="271" operation="setControlable(java.util.List&lt;eg.edu.alexu.csd.oop.game.GameObject&gt;):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="270"/>    
+    <end type="TARGET" refId="148"/>  
+  </message>  
+  <message id="273" operation="getControlable():java.util.List&lt;GameObject&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="272"/>    
+    <end type="TARGET" refId="149"/>  
+  </message>  
+  <message id="276" operation="attach(eg.edu.alexu.csd.oop.game.world.Observer):void" asynchronous="false">    
+    <end type="SOURCE" refId="275"/>    
+    <end type="TARGET" refId="150"/>  
+  </message>  
+  <message id="278" operation="getTime():long" asynchronous="false">    
+    <end type="SOURCE" refId="277"/>    
+    <end type="TARGET" refId="151"/>  
+  </message>  
+  <message id="280" operation="getStartTime():long" asynchronous="false">    
+    <end type="SOURCE" refId="279"/>    
+    <end type="TARGET" refId="152"/>  
+  </message>  
+  <message id="282" operation="setStartTime(long):void" asynchronous="false">    
+    <end type="SOURCE" refId="281"/>    
+    <end type="TARGET" refId="153"/>  
+  </message>  
+  <message id="284" operation="setTime(long):void" asynchronous="false">    
+    <end type="SOURCE" refId="283"/>    
+    <end type="TARGET" refId="154"/>  
+  </message>  
+  <message id="287" operation="getIterator():eg.edu.alexu.csd.oop.game.world.Iterator" asynchronous="false">    
+    <end type="SOURCE" refId="286"/>    
+    <end type="TARGET" refId="288"/>  
+  </message>  
+  <message id="289" operation="getIterator():eg.edu.alexu.csd.oop.game.world.Iterator" asynchronous="false">    
+    <end type="SOURCE" refId="286"/>    
+    <end type="TARGET" refId="290"/>  
+  </message>  
+  <message id="291" operation="getIterator():eg.edu.alexu.csd.oop.game.world.Iterator" asynchronous="false">    
+    <end type="SOURCE" refId="286"/>    
+    <end type="TARGET" refId="292"/>  
+  </message>  
+  <message id="293" operation="getLevel():eg.edu.alexu.csd.oop.game.world.LevelStrategy" asynchronous="false">    
+    <end type="SOURCE" refId="286"/>    
+    <end type="TARGET" refId="137"/>  
+  </message>  
+  <message id="295" operation="attach(eg.edu.alexu.csd.oop.game.world.Observer):void" asynchronous="false">    
+    <end type="SOURCE" refId="294"/>    
+    <end type="TARGET" refId="138"/>  
+  </message>  
+  <message id="297" operation="getMaxScore():int" asynchronous="false">    
+    <end type="SOURCE" refId="296"/>    
+    <end type="TARGET" refId="298"/>  
+  </message>  
+  <message id="299" operation="getMaxTime():int" asynchronous="false">    
+    <end type="SOURCE" refId="296"/>    
+    <end type="TARGET" refId="300"/>  
+  </message>  
+  <message id="301" operation="getLevel():eg.edu.alexu.csd.oop.game.world.LevelStrategy" asynchronous="false">    
+    <end type="SOURCE" refId="296"/>    
+    <end type="TARGET" refId="139"/>  
+  </message>  
+  <message id="302" operation="getMaxTime():int" asynchronous="false">    
+    <end type="SOURCE" refId="296"/>    
+    <end type="TARGET" refId="303"/>  
+  </message>  
+  <message id="304" operation="getMaxScore():int" asynchronous="false">    
+    <end type="SOURCE" refId="296"/>    
+    <end type="TARGET" refId="305"/>  
+  </message>  
+  <message id="306" operation="getMaxTime():int" asynchronous="false">    
+    <end type="SOURCE" refId="296"/>    
+    <end type="TARGET" refId="307"/>  
+  </message>  
+  <message id="308" operation="getMaxScore():int" asynchronous="false">    
+    <end type="SOURCE" refId="296"/>    
+    <end type="TARGET" refId="309"/>  
+  </message>  
+  <message id="311" operation="getTime():long" asynchronous="false">    
+    <end type="SOURCE" refId="310"/>    
+    <end type="TARGET" refId="140"/>  
+  </message>  
+  <message id="313" operation="setStartTime(long):void" asynchronous="false">    
+    <end type="SOURCE" refId="312"/>    
+    <end type="TARGET" refId="141"/>  
+  </message>  
+  <message id="315" operation="getStartTime():long" asynchronous="false">    
+    <end type="SOURCE" refId="314"/>    
+    <end type="TARGET" refId="142"/>  
+  </message>  
+  <message id="317" operation="setTime(long):void" asynchronous="false">    
+    <end type="SOURCE" refId="316"/>    
+    <end type="TARGET" refId="143"/>  
+  </message>  
+  <message id="319" operation="getNext():java.lang.Object" asynchronous="false">    
+    <end type="SOURCE" refId="318"/>    
+    <end type="TARGET" refId="320"/>  
+  </message>  
+  <message id="322" operation="hasNext():boolean" asynchronous="false">    
+    <end type="SOURCE" refId="321"/>    
+    <end type="TARGET" refId="323"/>  
+  </message>  
+  <message id="332" operation="Hard()" asynchronous="false">    
+    <end type="SOURCE" refId="331"/>    
+    <end type="TARGET" refId="329"/>  
+  </message>  
+  <message id="334" operation="Medium()" asynchronous="false">    
+    <end type="SOURCE" refId="333"/>    
+    <end type="TARGET" refId="327"/>  
+  </message>  
+  <message id="336" operation="Easy()" asynchronous="false">    
+    <end type="SOURCE" refId="335"/>    
+    <end type="TARGET" refId="325"/>  
+  </message>  
+  <message id="339" operation="visit(eg.edu.alexu.csd.oop.game.world.TwoEmptyStacks):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="338"/>    
+    <end type="TARGET" refId="190"/>  
+  </message>  
+  <message id="342" operation="visit(eg.edu.alexu.csd.oop.game.world.NoEmptyStacks):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="341"/>    
+    <end type="TARGET" refId="191"/>  
+  </message>  
+  <message id="345" operation="visit(eg.edu.alexu.csd.oop.game.world.RightStackEmpty):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="344"/>    
+    <end type="TARGET" refId="192"/>  
+  </message>  
+  <message id="348" operation="visit(eg.edu.alexu.csd.oop.game.world.LeftStackEmpty):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="347"/>    
+    <end type="TARGET" refId="193"/>  
+  </message>  
+  <message id="352" operation="ConcreteProgram()" asynchronous="false">    
+    <end type="SOURCE" refId="351"/>    
+    <end type="TARGET" refId="353"/>  
+  </message>  
+  <message id="355" operation="creat(org.apache.log4j.Logger):eg.edu.alexu.csd.oop.game.GameObject" asynchronous="false">    
+    <end type="SOURCE" refId="354"/>    
+    <end type="TARGET" refId="356"/>  
+  </message>  
+  <message id="358" operation="release(eg.edu.alexu.csd.oop.game.GameObject,org.apache.log4j.Logger):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="357"/>    
+    <end type="TARGET" refId="359"/>  
+  </message>  
+  <message id="361" operation="start():void" asynchronous="false">    
+    <end type="SOURCE" refId="360"/>    
+    <end type="TARGET" refId="362"/>  
+  </message>  
+  <message id="364" operation="ShapesPool()" asynchronous="false">    
+    <end type="SOURCE" refId="363"/>    
+    <end type="TARGET" refId="365"/>  
+  </message>  
+  <message id="368" operation="ShapeFactory()" asynchronous="false">    
+    <end type="SOURCE" refId="367"/>    
+    <end type="TARGET" refId="369"/>  
+  </message>  
+  <message id="371" 
+    operation="Set(java.lang.String,eg.edu.alexu.csd.oop.game.GameObject):eg.edu.alexu.csd.oop.game.GameObject" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="370"/>    
+    <end type="TARGET" refId="372"/>  
+  </message>
+</sequence-diagram>
